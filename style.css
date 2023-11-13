@@ -38,3 +38,13 @@
     width: 25%;
 
 }
+
+.rodape{
+    background-color: #D7C3FF;
+    text-align: center;
+}
+
+.rodape-img{
+    height: 60px;
+    padding: 12px;0
+}
